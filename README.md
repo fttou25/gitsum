@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update HTTP to HTTPS (#7548)
